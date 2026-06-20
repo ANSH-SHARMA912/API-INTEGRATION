@@ -7,7 +7,10 @@
 *DURATION*: 16 WEEKS
 *MENTOR*: NEELA SANTOSH
 
-https://github.com/ANSH-SHARMA912/API-INTEGRATION/blob/c741b8d6f3137615f0668aaa21a5b6b4d0a6531f/Screenshot%202026-06-20%20133516.png
+*Output*
+
+![image alt](https://github.com/ANSH-SHARMA912/API-INTEGRATION/blob/c741b8d6f3137615f0668aaa21a5b6b4d0a6531f/Screenshot%202026-06-20%20133516.png)
+
 
 A responsive Weather Application built using **HTML, CSS, and JavaScript** that fetches real-time weather information from the **WeatherAPI**. Users can search for any city and instantly view the current weather conditions, including temperature, humidity, wind speed, and weather status.
 
